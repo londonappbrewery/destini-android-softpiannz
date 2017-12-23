@@ -52,6 +52,13 @@
         android:textColor="#ecf0f1"
         android:textSize="15sp"/>
 
-
+    <Button
+        android:id="@+id/buttonStart"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="I will go to the Starting point"
+        android:layout_alignParentBottom="true"
+        android:textSize="15sp"
+        android:visibility="gone"/>
 
 </RelativeLayout>
